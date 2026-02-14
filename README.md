@@ -1,4 +1,4 @@
-Data Sampling and Exploration using Pandas (Google Colab)
+# Data Sampling and Exploration using Pandas (Google Colab)
 Project Overview
 
 This project demonstrates data exploration and random sampling techniques using Python in Google Colab. The dataset used contains transactional information such as orders, shipping details, customer segments, locations, and product categories.
