@@ -1,4 +1,4 @@
-# .Colab Notebook Information
+# Colab Notebook Information
 This section provides an overview and important details regarding the analysis performed in this Google Colab notebook.
 
 # Notebook Purpose:
