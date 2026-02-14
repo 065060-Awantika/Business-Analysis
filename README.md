@@ -6,7 +6,8 @@ To perform exploratory data analysis (EDA) on a dataset related to sales and shi
 To identify key insights regarding business segments, product categories, shipping modes, and profitability.
 To demonstrate data manipulation, filtering, sorting, and merging techniques using Pandas.
 # Dataset Used:
-devp_2024_test-1_dataset - Sheet1.csv: A simulated sales dataset containing transactional data such as order details, product information, and pricing.
+devp_2024_test-1_dataset - Sheet1.csv:  
+A simulated sales dataset containing transactional data such as order details, product information, and pricing.
 Sections Covered:
 A. Data Loading & Initial Inspection: Loading data, sampling, and basic information display.
 B. Data Description & Visualization: Detailed descriptive statistics and visualizations for both categorical and non-categorical variables.
